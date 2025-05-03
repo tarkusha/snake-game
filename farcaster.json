@@ -1,7 +1,7 @@
 {
     "name": "Hungry Snake",
     "description": "A classic Snake game on Farcaster",
-    "icon": "https://snake-game-gbsx.vercel.app/snake-placeholder.png",
+    "icon": "https://snake-game-gbsx.vercel.app/images/icon.png",
     "url": "https://snake-game-gbsx.vercel.app/", 
     "short_name": "Snake"
   }
