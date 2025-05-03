@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useRef } from "react";
 import { ethers } from "ethers";
 import './styles.css';
