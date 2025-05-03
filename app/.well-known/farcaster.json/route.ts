@@ -13,10 +13,10 @@ export async function GET() {
     },
     frame: {
       version: "1",
-      name: "Monad Farcaster MiniApp Template",
-      iconUrl: `${APP_URL}/images/icon.png`,
+      name: "Hungry snake",
+      iconUrl: `${APP_URL}/images/snake-placeholder.png`,
       homeUrl: `${APP_URL}`,
-      imageUrl: `${APP_URL}/images/feed.png`,
+      imageUrl: `${APP_URL}/images/snake-placeholder.png`,
       screenshotUrls: [],
       tags: ["monad", "farcaster", "miniapp", "template"],
       primaryCategory: "developer-tools",
