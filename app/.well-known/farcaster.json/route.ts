@@ -14,9 +14,9 @@ export async function GET() {
     frame: {
       version: "1",
       name: "Hungry snake",
-      iconUrl: `${APP_URL}/images/snake-placeholder.png`,
+      iconUrl: `${APP_URL}/images/icon.png`,
       homeUrl: `${APP_URL}`,
-      imageUrl: `${APP_URL}/images/snake-placeholder.png`,
+      imageUrl: `${APP_URL}/images/feed.png`,
       screenshotUrls: [],
       tags: ["monad", "farcaster", "miniapp", "template"],
       primaryCategory: "developer-tools",
