@@ -2,8 +2,6 @@
 
 import { useState, useRef } from "react";
 import { ethers } from "ethers";
-import './styles.css';
-
 
 export default function Home() {
   const [walletAddress, setWalletAddress] = useState("");
@@ -44,7 +42,7 @@ export default function Home() {
     <div
       className={theme === "light" ? "app light-theme" : "app dark-theme"}
     >
-      <h1>Snake Game (Farcaster + Monad)</h1>
+      <h1>Snake Game Mini App (Farcaster + Monad)</h1>
 
       <button onClick={connectToMonad} className="btn">
         Connect Wallet
