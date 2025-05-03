@@ -4,7 +4,7 @@ import { APP_URL } from "@/lib/constants";
 
 const frame = {
   version: "next",
-  imageUrl: `${APP_URL}/images/feed.png`,
+  imageUrl: `${APP_URL}/images/snake-placeholder.png`,
   button: {
     title: "Launch Template",
     action: {
@@ -19,10 +19,10 @@ const frame = {
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "Monad Farcaster MiniApp Template",
+    title: "Hungry snake",
     openGraph: {
-      title: "Monad Farcaster MiniApp Template",
-      description: "A template for building mini-apps on Farcaster and Monad",
+      title: "Hungry snake",
+      description: "Hungry snake game",
     },
     other: {
       "fc:frame": JSON.stringify(frame),
