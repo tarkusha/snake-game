@@ -1,0 +1,21 @@
+{
+    "name": "Snake Game",
+    "description": "Simple snake game as a Farcaster Mini App",
+    "app_url": "https://snake-game-chi-drab.vercel.app",
+    "icon": "https://snake-game-chi-drab.vercel.app/icon.png",
+    "developer": {
+      "name": "tarkusha"
+    },
+    "version": "1.0",
+    "splashImageUrl": "https://snake-game-chi-drab.vercel.app/images/splash.png",
+    "tags": [
+      "monad",
+      "farcaster",
+      "miniapp",
+      "game",
+      "snake"
+    ],
+    "primaryCategory": "games",
+    "buttonTitle": "Play Snake Game"
+  }
+  
