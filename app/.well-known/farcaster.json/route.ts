@@ -5,11 +5,11 @@ export async function GET() {
   const farcasterConfig = {
     accountAssociation: {
       header:
-        "eyJmaWQiOjE3OTc5LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MGMxNWE5QkVmRTg3RjY0N0IwMDNhMjI0MTY4NDYwMzYyODQ0M2Y4YiJ9",
+        "eyJmaWQiOjMzODgyNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDEwZjY2Q0RkNTQ4MEIyNTJkNzY2NTliOTg0NThEOWE4RjdGQzcxQTgifQ",
       payload:
-        "eyJkb21haW4iOiJtb25hZC1taW5pYXBwLXRlbXBsYXRlLXNldmVuLnZlcmNlbC5hcHAifQ",
+        "eyJkb21haW4iOiJzbmFrZS1nYW1lLWNoaS1kcmFiLnZlcmNlbC5hcHAifQ",
       signature:
-        "MHgwYzY2NDdjZDhjOWJiY2JmYzg2NGIzZjVjYWVjY2ExMTdlOTY4ZGQwMWIzMmM0NGViMjU5ZDhlOGQyMzdhZTZiMDU1MmNmNWRiMDU1MDMwNTZmNTNhZmEwZDZlZTBlZmIyMmJmNDNmMDQ4NTdhMzk2NmY0YmMzODk2N2NlZDI5ZjFi",
+        "MHgwMjhkOGZiZDRkYTk5Y2UzMDZkZTE0ZjEwZTdhOTAzMjBkNDM2Y2NjMzA1OTE4MGUyOWExYjFiYmNlYjZmYWYwNDEyOTYzZTQxOTgzYjI5MmU5ODYwZDJiNTdiMmUxOGQ4NDcyNWUxODc3ODQzYzE4NTJkZGQyZTYxYmFhYzk1NzFi",
     },
     frame: {
       version: "1",
