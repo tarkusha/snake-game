@@ -1,0 +1,11 @@
+{
+    "name": "Snake Game",
+    "description": "A simple snake game miniapp.",
+    "app_url": "https://snake-game-chi-drab.vercel.app",
+    "icon": "https://snake-game-chi-drab.vercel.app/icon.png",
+    "developer": {
+      "name": "tarkusha",
+      "url": "https://github.com/tarkusha"
+    }
+  }
+  
